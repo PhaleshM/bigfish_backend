@@ -1,0 +1,35 @@
+.table-bordered{
+    width: 60%;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+      
+}
+
+.notice{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 100%;
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    color: #820709;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #fff4f4;
+}
+.sapline{
+    padding-top: 10px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+.float{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.a{
+    font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    color: #820709;
+    font-size: 10px;
+}

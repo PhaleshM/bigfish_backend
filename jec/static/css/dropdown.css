@@ -1,0 +1,84 @@
+dropdown-menu{
+    position:center;
+    padding-left: 70px;
+    
+}
+.btn{
+ position: center;
+ padding-right: 15%;
+ padding-left: 15%;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ margin-left: 27%;
+ box-shadow: 16px 16px 16px 16px black (0,0,0,0.2);
+ border: none;
+
+}
+
+.btn-secondary {
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    background: #ffb200;
+    
+}
+.dropdown-toggle{
+    position: center;
+}
+.btn-secondary:hover{
+    color:white;
+    background:#c21717;
+}
+
+.dropdown-menu li{
+    background-color: white;
+}
+.dropdown-menu li a{
+    color: black;
+}
+.dropdown-menu li a:hover{
+    background-color: #ffb200;
+    color: white;
+}
+
+
+login-btn{
+    position:center;
+    
+}
+.btn2{
+
+ position: center;
+ box-shadow: 16px 16px 16px 16px black (0,0,0,0.2);
+ border-radius: 5px;
+ border-color: transparent;
+ /* margin-top:8px; */
+ /* padding-left: 15px; */
+ margin-left: 70px;
+}
+
+.btn-secondary2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background: #c21717;
+}
+.a{
+    color:white;
+    background-color: #c21717;
+}
+.a:hover{
+    color:black;
+    background:white;
+}
+.dropdown-toggle2{
+    position: center;
+}
+.btn-secondary2:hover{
+    color:black;
+    background:white;
+}

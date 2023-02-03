@@ -1,0 +1,19 @@
+button{
+    line-height: 30px;
+    width: 12%;
+    margin-top: 8px;
+    margin-right:40px;
+    position:absolute;
+    padding: 3px;
+    top:0;
+    right:0;
+    border-radius: 8px;
+    font-size:15px;
+    font-weight: bolder;
+    text-transform:uppercase;
+    background:#a43e0b;
+    color:#fff;
+    cursor:pointer;
+    text-align: center;
+    border: none;
+}
